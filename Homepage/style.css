@@ -178,6 +178,7 @@ html {
 }
 
 .container1:hover #back_element1 {
+    background-color: black;
     opacity:.3;
 }
 
